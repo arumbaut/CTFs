@@ -59,12 +59,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTFs VulnHub/Proyecto SOC/Topologia de la Red.md",
+                "file": "CTFs VulnHub/Maquinas DMV y WPWN/Topologia del Proyecto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Topologia de la Red"
+              "title": "Topologia del Proyecto"
             }
           }
         ],
@@ -243,10 +243,12 @@
   },
   "active": "70a755bae8946510",
   "lastOpenFiles": [
+    "CTFs VulnHub/Proyecto SOC/Topologia de la Red.md",
+    "CTFs VulnHub/Maquinas DMV y WPWN/Topologia del Proyecto.md",
+    "CTFs VulnHub/Maquinas DMV y WPWN/Maquinas DMV y WPWN.md",
     "attachments/images/Pasted image 20251106064635.png",
     "attachments/images/Pasted image 20251107142838.png",
     "attachments/images/Pasted image 20251107142940.png",
-    "CTFs VulnHub/Proyecto SOC/Topologia de la Red.md",
     "attachments/images/Pasted image 20251005125916.png",
     "attachments/images/Pasted image 20251012215059.png",
     "attachments/images",
@@ -256,14 +258,12 @@
     "attachments/Pasted image 20251012215059.png",
     "attachments/Pasted image 20251005125916.png",
     "Comandos y Herramientas Utiles/Migrar a una TTY.md",
-    "CTFs VulnHub/Savitar/Maquinas DMV y WPWN.md",
-    "CTFs VulnHub/Savitar/Topologia/isoflow-export-2025-11-07T13_40_43.689Z.png",
+    "CTFs VulnHub/Maquinas DMV y WPWN/Topologia/isoflow-export-2025-11-07T13_40_43.689Z.png",
     "CTFs VulnHub/Savitar/Topologia/Unconfirmed 128956.crdownload",
-    "CTFs VulnHub/Savitar/Topologia/diagram-2025-11-07.json",
+    "CTFs VulnHub/Maquinas DMV y WPWN/Topologia/diagram-2025-11-07.json",
     "CTFs VulnHub/Savitar/Topologia/Unconfirmed 148223.crdownload",
-    "CTFs VulnHub/Savitar/Topologia",
-    "CTFs VulnHub/Savitar/Topologia del Proyecto.md",
-    "CTFs VulnHub/Savitar/Notas Extras.md",
+    "CTFs VulnHub/Maquinas DMV y WPWN/Topologia",
+    "CTFs VulnHub/Maquinas DMV y WPWN/Notas Extras.md",
     "attachments/Pasted image 20251107142940.png",
     "CTFs/eLection 1/eLection 1.md",
     "CTFs/eLection 1",
