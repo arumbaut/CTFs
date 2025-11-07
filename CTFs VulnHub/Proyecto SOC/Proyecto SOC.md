@@ -48,3 +48,8 @@ Lo haremos descargandonos una Maquina Virtual de su sitio oficial que ya esta pr
 Luego haremos un despliegue de agentes en nuestras maquinas a monitorer incluido nuestro IDS para registrar los logs que este genere para porder generar las alertas. Mas configuraciones [[Wazuh Configuraciones]]
 
 Para que funcione correcamente nuestra topoligia debemos hacer unos ajustes en la configuracion de rede de los diferetes actores que intervienen lo que esa explicado en 
+[[Configuraciones de Red]]
+
+Resolución de las maquinas
+[[Corrosion 2]]
+[[Corrosion1]]

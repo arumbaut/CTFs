@@ -59,12 +59,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTFs VulnHub/Maquinas DMV y WPWN/Topologia del Proyecto.md",
+                "file": "CTFs VulnHub/Proyecto SOC/Proyecto SOC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Topologia del Proyecto"
+              "title": "Proyecto SOC"
             }
           }
         ],
@@ -223,7 +223,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,14 +243,14 @@
   },
   "active": "70a755bae8946510",
   "lastOpenFiles": [
-    "CTFs VulnHub/Proyecto SOC/Topologia de la Red.md",
     "CTFs VulnHub/Maquinas DMV y WPWN/Topologia del Proyecto.md",
-    "CTFs VulnHub/Maquinas DMV y WPWN/Maquinas DMV y WPWN.md",
-    "attachments/images/Pasted image 20251106064635.png",
-    "attachments/images/Pasted image 20251107142838.png",
+    "CTFs VulnHub/Proyecto SOC/Topologia de la Red.md",
     "attachments/images/Pasted image 20251107142940.png",
     "attachments/images/Pasted image 20251005125916.png",
     "attachments/images/Pasted image 20251012215059.png",
+    "attachments/images/Pasted image 20251106064635.png",
+    "CTFs VulnHub/Maquinas DMV y WPWN/Maquinas DMV y WPWN.md",
+    "attachments/images/Pasted image 20251107142838.png",
     "attachments/images",
     "attachments/Images",
     "attachments/Pasted.md",
