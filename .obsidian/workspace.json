@@ -1,0 +1,309 @@
+{
+  "main": {
+    "id": "f6cf4a232983d115",
+    "type": "split",
+    "children": [
+      {
+        "id": "572afaae0d9cd016",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37504b00f6ce2483",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CTFs VulnHub/Venom/Venom.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Venom"
+            }
+          },
+          {
+            "id": "5229b753668f68f4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CTFs VulnHub/Corrosio2/Corrosion 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Corrosion 2"
+            }
+          },
+          {
+            "id": "ea9ba9c2413ccf43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comandos y Herramientas Utiles/Pivoting/Chisel Ejemplo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chisel Ejemplo"
+            }
+          },
+          {
+            "id": "70a755bae8946510",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comandos y Herramientas Utiles/Migrar a una TTY.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Migrar a una TTY"
+            }
+          },
+          {
+            "id": "950a591bd11957c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CTFs VulnHub/Savitar/Maquinas DMV y WPWN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Maquinas DMV y WPWN"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3832dae740bac58f",
+    "type": "split",
+    "children": [
+      {
+        "id": "418f274784165365",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19b62d1d9a29ce9d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "1aa07cfac72cc41e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f712a9da59720705",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 358.5086555480957
+  },
+  "right": {
+    "id": "dd62f90908c3232e",
+    "type": "split",
+    "children": [
+      {
+        "id": "65b9d2bb6b8e7f7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0d036b1a87c05aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CTFs VulnHub/Savitar/Maquinas DMV y WPWN.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Maquinas DMV y WPWN"
+            }
+          },
+          {
+            "id": "60a28ea53d8f9fd2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CTFs VulnHub/Proyecto SOC/Topologia de la Red.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Topologia de la Red"
+            }
+          },
+          {
+            "id": "2a88893eed3cb954",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "3c934933bd41a028",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CTFs VulnHub/Savitar/Maquinas DMV y WPWN.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Maquinas DMV y WPWN"
+            }
+          },
+          {
+            "id": "9c8552b45a1c0e11",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "3bd7a79c53c239b3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 387.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "edge-tts:Read note aloud": false
+    }
+  },
+  "active": "9c8552b45a1c0e11",
+  "lastOpenFiles": [
+    "CTFs VulnHub/Savitar/Topologia/isoflow-export-2025-11-07T13_40_43.689Z.png",
+    "CTFs VulnHub/Savitar/Topologia/Unconfirmed 128956.crdownload",
+    "CTFs VulnHub/Savitar/Topologia/diagram-2025-11-07.json",
+    "CTFs VulnHub/Savitar/Topologia/Unconfirmed 148223.crdownload",
+    "CTFs VulnHub/Savitar/Topologia",
+    "CTFs VulnHub/Savitar/Topologia del Proyecto.md",
+    "CTFs VulnHub/Savitar/Notas Extras.md",
+    "CTFs VulnHub/Savitar/Maquinas DMV y WPWN.md",
+    "attachments/Pasted image 20251107142940.png",
+    "attachments/Pasted image 20251107142838.png",
+    "CTFs VulnHub/Proyecto SOC/Topologia de la Red.md",
+    "CTFs/eLection 1/eLection 1.md",
+    "CTFs/eLection 1",
+    "CTFs/HackMePlease 1/HackMePlease 1.md",
+    "CTFs/HackMePlease 1",
+    "CTFs/Venom/Venom.md",
+    "CTFs/Venom",
+    "CTFs/Corrosio2/Corrosion 2.md",
+    "CTFs/Corrosio2",
+    "CTFs/Corrosion1/Python Log Poisoning.md",
+    "CTFs/Corrosion1/Corrosion1.md",
+    "CTFs/Corrosion1",
+    "CTFs/Proyecto SOC/Configuraciones de Red.md",
+    "CTFs/Proyecto SOC/Wazuh/Wazuh Configuraciones.md",
+    "CTFs/Proyecto SOC/Wazuh/Decoder.md",
+    "CTFs/Proyecto SOC/Wazuh/Integration Monitoring, File Integrity.md",
+    "CTFs/Proyecto SOC/Wazuh/Detectando archivos maliciosos utilizando Virus Tota.md",
+    "CTFs/Proyecto SOC/Wazuh/Detectar y Bloquear Fuerza Bruta de SSH.md",
+    "CTFs/Proyecto SOC/Wazuh/Detectar ejecucion de comandos maliciosos.md",
+    "CTFs/Proyecto SOC/Wazuh/Detecting Network Intrusion Using Suricata.md",
+    "CTFs/Proyecto SOC/Wazuh/Wazuh VM.md",
+    "CTFs/Proyecto SOC/Wazuh",
+    "CTFs/Proyecto SOC/Topologia de la Red.md",
+    "CTFs/Proyecto SOC/Proyecto SOC.md",
+    "CTFs/Savitar/Maquinas DMV y WPWN.md",
+    "Savitar/Maquinas DMV y WPWN.md",
+    "CTFs VulnHub/Proyecto SOC/Proyecto SOC.md",
+    "CTFs VulnHub/HackMePlease 1/HackMePlease 1.md",
+    "attachments/Pasted image 20251106064635.png",
+    "attachments/TopologiaRed.png",
+    "attachments/Pasted image 20251012215059.png",
+    "attachments/Pasted image 20251005125916.png",
+    "Untitled.canvas",
+    "attachments/Pasted image 20250922170705.png",
+    "attachments/Pasted image 20250922170655.png",
+    "attachments/Pasted image 20250922135729.png",
+    "attachments/Pasted image 20250922131630.png",
+    "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/Untitled.canvas"
+  ]
+}

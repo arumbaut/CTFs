@@ -1,0 +1,23 @@
+{
+  "selectedVoice": "en-US-AvaNeural",
+  "customVoice": "es-US-PalomaNeural",
+  "playbackSpeed": 1,
+  "showNotices": true,
+  "showStatusBarButton": true,
+  "showMenuItems": true,
+  "generateMP3": true,
+  "outputFolder": "",
+  "embedInNote": false,
+  "replaceSpacesInFilenames": false,
+  "overrideAmpersandEscape": false,
+  "floatingPlayerPosition": {
+    "x": 1266,
+    "y": 646
+  },
+  "disablePlaybackControlPopover": false,
+  "enableReplayOption": true,
+  "enableQueueFeature": true,
+  "queueManagerPosition": null,
+  "autoPauseOnWindowBlur": false,
+  "chunkSize": 9000
+}

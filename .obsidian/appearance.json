@@ -1,0 +1,9 @@
+{
+  "baseFontSize": 26,
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "resaltado"
+  ],
+  "baseFontSizeAction": true
+}

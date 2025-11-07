@@ -1,0 +1,7 @@
+[[Wazuh VM]]
+[[Decoder]]
+[[Detectando archivos maliciosos utilizando Virus Tota]]
+[[Detectar y Bloquear Fuerza Bruta de SSH]]
+[[Detectar ejecucion de comandos maliciosos]]
+[[Detecting Network Intrusion Using Suricata]]
+[[Integration Monitoring, File Integrity]]

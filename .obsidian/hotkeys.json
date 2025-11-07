@@ -1,0 +1,34 @@
+{
+  "editor:set-heading-4": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "4"
+    }
+  ],
+  "editor:set-heading-5": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "5"
+    }
+  ],
+  "editor:toggle-highlight": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "`"
+    }
+  ],
+  "editor:insert-codeblock": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "."
+    }
+  ]
+}
