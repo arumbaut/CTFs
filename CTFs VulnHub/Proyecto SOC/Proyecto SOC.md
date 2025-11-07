@@ -52,3 +52,4 @@ Para que funcione correcamente nuestra topoligia debemos hacer unos ajustes en l
 
 Resolución de las maquinas en las carpetas [Corrosion2] y
 [[Corrosion1]]
+
