@@ -50,6 +50,5 @@ Luego haremos un despliegue de agentes en nuestras maquinas a monitorer incluido
 Para que funcione correcamente nuestra topoligia debemos hacer unos ajustes en la configuracion de rede de los diferetes actores que intervienen lo que esa explicado en 
 [[Configuraciones de Red]]
 
-Resolución de las maquinas
-[[Corrosion 2]]
+Resolución de las maquinas en las carpetas [Corrosion2] y
 [[Corrosion1]]
