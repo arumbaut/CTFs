@@ -73,12 +73,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTFs VulnHub/Savitar/Maquinas DMV y WPWN.md",
+                "file": "CTFs VulnHub/Proyecto SOC/Topologia de la Red.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maquinas DMV y WPWN"
+              "title": "Topologia de la Red"
             }
           }
         ],
@@ -255,8 +255,9 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "9c8552b45a1c0e11",
+  "active": "950a591bd11957c7",
   "lastOpenFiles": [
+    "CTFs VulnHub/Savitar/Maquinas DMV y WPWN.md",
     "CTFs VulnHub/Savitar/Topologia/isoflow-export-2025-11-07T13_40_43.689Z.png",
     "CTFs VulnHub/Savitar/Topologia/Unconfirmed 128956.crdownload",
     "CTFs VulnHub/Savitar/Topologia/diagram-2025-11-07.json",
@@ -264,7 +265,6 @@
     "CTFs VulnHub/Savitar/Topologia",
     "CTFs VulnHub/Savitar/Topologia del Proyecto.md",
     "CTFs VulnHub/Savitar/Notas Extras.md",
-    "CTFs VulnHub/Savitar/Maquinas DMV y WPWN.md",
     "attachments/Pasted image 20251107142940.png",
     "attachments/Pasted image 20251107142838.png",
     "CTFs VulnHub/Proyecto SOC/Topologia de la Red.md",
@@ -303,7 +303,6 @@
     "attachments/Pasted image 20250922170705.png",
     "attachments/Pasted image 20250922170655.png",
     "attachments/Pasted image 20250922135729.png",
-    "attachments/Pasted image 20250922131630.png",
     "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/Untitled.canvas"
   ]
 }
