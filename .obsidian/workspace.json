@@ -59,12 +59,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTFs VulnHub/Proyecto Windows Domain/Topologia de Red.md",
+                "file": "CTFs VulnHub/Proyecto Windows Domain/Tecnicas que aplicaremos/Samba Relay.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Topologia de Red"
+              "title": "Samba Relay"
             }
           }
         ],
@@ -243,14 +243,18 @@
   },
   "active": "70a755bae8946510",
   "lastOpenFiles": [
+    "CTFs VulnHub/Proyecto Windows Domain/Pruebas en Dominio de Windows.md",
+    "CTFs VulnHub/Proyecto Windows Domain/Tecnicas que aplicaremos/Samba Relay.md",
+    "CTFs VulnHub/Proyecto Windows Domain/Tecnicas que aplicaremos",
+    "Comandos y Herramientas Utiles/Bash HostDisvovery.md",
+    "CTFs VulnHub/Proyecto Windows Domain/Creando el Entorno.md",
+    "CTFs VulnHub/Proyecto Windows Domain/Topologia de Red.md",
     "attachments/images/Pasted image 20251110141946.png",
     "attachments/images/Pasted image 20251005125916.png",
     "attachments/images/Pasted image 20251012215059.png",
     "attachments/images/Pasted image 20251106064635.png",
     "attachments/images/Pasted image 20251107142940.png",
-    "CTFs VulnHub/Proyecto Windows Domain/Topologia de Red.md",
     "CTFs VulnHub/Proyecto SOC/Topologia de la Red.md",
-    "Comandos y Herramientas Utiles/Bash HostDisvovery.md",
     "CTFs VulnHub/eLection 1/eLection 1.md",
     "Scripts Utiles/whichSystem.py.md",
     "Scripts Utiles/extractPorts  script bash.md",
@@ -281,14 +285,11 @@
     "CTFs/HackMePlease 1/HackMePlease 1.md",
     "CTFs/HackMePlease 1",
     "CTFs/Venom/Venom.md",
-    "CTFs/Venom",
     "CTFs/Corrosio2/Corrosion 2.md",
     "CTFs/Corrosion1/Python Log Poisoning.md",
     "CTFs/Corrosion1/Corrosion1.md",
     "CTFs/Proyecto SOC/Configuraciones de Red.md",
     "CTFs/Proyecto SOC/Wazuh/Wazuh Configuraciones.md",
-    "CTFs/Proyecto SOC/Wazuh/Decoder.md",
-    "CTFs/Proyecto SOC/Wazuh/Integration Monitoring, File Integrity.md",
     "Untitled.canvas",
     "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/Untitled.canvas"
   ]
