@@ -13,4 +13,8 @@ john --wordlist=/usr/share/wordlists/rockyou.txt /home/alex/AD_Exercice/hash
 
 Muestra los hash ya descifrados
 john --show /home/alex/AD_Exercice/hash
+
+O con la herramienta hashcat donde -m 5600 es el tipo de hash que intentamos descifrar , se pueden ver los tipos de hash con (hashcat --example-hashes)
+
+hashcat -m 5600 /home/alex/AD_Exercice/hash /usr/share/wordlists/rockyou.txt
 ```
