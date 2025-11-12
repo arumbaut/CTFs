@@ -18,3 +18,5 @@ O con la herramienta hashcat donde -m 5600 es el tipo de hash que intentamos des
 
 hashcat -m 5600 /home/alex/AD_Exercice/hash /usr/share/wordlists/rockyou.txt
 ```
+
+Por IPV6
