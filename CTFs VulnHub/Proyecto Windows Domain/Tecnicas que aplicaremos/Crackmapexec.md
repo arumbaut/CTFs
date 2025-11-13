@@ -18,7 +18,7 @@ sudo tee /usr/local/bin/cme > /dev/null <<'EOF'
 Se agrega dentro del archivo cme
 #!/usr/bin/env bash
 # Ruta al entorno virtual
-VENV="$HOME/cme-venv"
+VENV="$HOME/Tools/cme-env"
 
 # Comprobar que el binario exista
 if [ ! -x "$VENV/bin/cme" ]; then

