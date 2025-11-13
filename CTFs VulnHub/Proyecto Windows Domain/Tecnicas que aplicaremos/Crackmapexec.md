@@ -37,7 +37,7 @@ Ya podremos ejecutarlo desde nuestra terminal sin necesidad de correr en envirom
 
 
 ```
-Nos da si el SMB esta firmado o no ademas que enumera los equipos de la red por samba
+Nos da si el SMB esta firmado o no ademas que enumera los equipos de la red por samba. Funciona si esta desactivado el firewal de windows
 
 cme smb 10.10.11.0/24
 SMB         10.10.11.131    445    PC-ALEX          [*] Windows 10.0 Build 19041 x64 (name:PC-ALEX) (domain:savicorp.local) (signing:False) (SMBv1:False)
@@ -63,6 +63,6 @@ Running CME against 256 targets ━━━━━━━━━━━━━━━━
 
 ```
 
-Si tenemos un usuario con privilegios podemos ejecutar varios tecnicas como dumpear la SAM ademas de hacer ejecución de código en una maquina que el usuario que obtenido tenga privilegios de administrador como lo hacemos
+Si tenemos un usuario con privilegios podemos ejecutar varios tecnicas como dumpear la SAM ademas de hacer ejecución de código en una maquina que el usuario que obtenido tenga privilegios de administrador, como lo hacemos ---->
 
-Utilizaremoas
+[[Ejecucion de codigo mediante SAMBA]]

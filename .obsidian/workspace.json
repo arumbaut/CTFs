@@ -59,16 +59,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTFs VulnHub/Proyecto Windows Domain/Tecnicas que aplicaremos/Ejecucion de codigo mediante SAMBA IPV6.md",
+                "file": "CTFs VulnHub/Proyecto Windows Domain/Tecnicas que aplicaremos/Crackmapexec.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ejecucion de codigo mediante SAMBA IPV6"
+              "title": "Crackmapexec"
+            }
+          },
+          {
+            "id": "26b958ab91397320",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CTFs VulnHub/Proyecto Windows Domain/Tecnicas que aplicaremos/mitm6  Man In The Midel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "mitm6  Man In The Midel"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -241,21 +255,22 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "0e8c6473ba4f8552",
+  "active": "26b958ab91397320",
   "lastOpenFiles": [
+    "CTFs VulnHub/Proyecto Windows Domain/Tecnicas que aplicaremos/Escaneo mediane NetBios.md",
+    "CTFs VulnHub/Proyecto Windows Domain/Tecnicas que aplicaremos/mitm6  Man In The Midel.md",
     "CTFs VulnHub/Proyecto Windows Domain/Tecnicas que aplicaremos/Ejecucion de codigo mediante SAMBA.md",
+    "CTFs VulnHub/Proyecto Windows Domain/Tecnicas que aplicaremos/Crackmapexec.md",
     "CTFs VulnHub/Proyecto Windows Domain/Tecnicas que aplicaremos/Ejecucion de codigo mediante SAMBA IPV6.md",
+    "CTFs VulnHub/Proyecto Windows Domain/Tecnicas que aplicaremos/Samba Relay.md",
     "VMWare/Poner en modo promiscuo un adapador.md",
     "VMWare",
-    "CTFs VulnHub/Proyecto Windows Domain/Tecnicas que aplicaremos/Crackmapexec.md",
     "CTFs VulnHub/Proyecto Windows Domain/Pruebas en Dominio de Windows.md",
     "CTFs VulnHub/Proyecto SOC/Topologia de la Red.md",
     "CTFs VulnHub/Proyecto Windows Domain/Tecnicas que aplicaremos/Diagrama visual.md",
     "attachments/images/Diagrama visual.png",
     "system-design.excalidrawlib",
     "Unconfirmed 969723.crdownload",
-    "CTFs VulnHub/Proyecto Windows Domain/Tecnicas que aplicaremos/Escaneo mediane NetBios.md",
-    "CTFs VulnHub/Proyecto Windows Domain/Tecnicas que aplicaremos/Samba Relay.md",
     "Comandos y Herramientas Utiles/Pivoting/Chisel Ejemplo.md",
     "Consultar Notas de Codigos NeBios.md",
     "CTFs VulnHub/Proyecto Windows Domain/Topologia de Red.md",
@@ -289,7 +304,6 @@
     "CTFs VulnHub/Savitar/Topologia/Unconfirmed 128956.crdownload",
     "CTFs VulnHub/Maquinas DMV y WPWN/Topologia/diagram-2025-11-07.json",
     "CTFs VulnHub/Savitar/Topologia/Unconfirmed 148223.crdownload",
-    "CTFs VulnHub/Maquinas DMV y WPWN/Notas Extras.md",
     "Untitled.canvas",
     "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/Untitled.canvas"
   ]
