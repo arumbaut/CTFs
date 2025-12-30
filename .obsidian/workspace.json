@@ -73,12 +73,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTFs VulnHub/Proyecto Windows Domain/Tecnicas que aplicaremos/Samba Relay.md",
+                "file": "Comandos y Herramientas Utiles/Migrar a una TTY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Samba Relay"
+              "title": "Migrar a una TTY"
             }
           }
         ],
@@ -114,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Burps",
+                "query": "pwn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -255,10 +255,13 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "19b62d1d9a29ce9d",
+  "active": "26b958ab91397320",
   "lastOpenFiles": [
-    "CTFs VulnHub/Proyecto Windows Domain/Tecnicas que aplicaremos/Crackmapexec.md",
+    "Comandos y Herramientas Utiles/Crear Payloads msfvenom/Crear un payload warp.md",
+    "CTFs VulnHub/Proyecto SOC/Corrosion1/Corrosion1.md",
+    "CTFs VulnHub/Proyecto SOC/Corrosio2/Corrosion 2.md",
     "CTFs VulnHub/Proyecto Windows Domain/Tecnicas que aplicaremos/Samba Relay.md",
+    "CTFs VulnHub/Proyecto Windows Domain/Tecnicas que aplicaremos/Crackmapexec.md",
     "Comandos y Herramientas Utiles/Log Poisoning/Python Log Poisoning auth.log.md",
     "Comandos y Herramientas Utiles/Log Poisoning",
     "CTFs VulnHub/Proyecto SOC/Corrosion1/Python Log Poisoning.md",
@@ -281,9 +284,6 @@
     "CTFs VulnHub/Proyecto Windows Domain/Tecnicas que aplicaremos/AS-REP Roasting.md",
     "CTFs VulnHub/Proyecto Windows Domain/Tecnicas que aplicaremos/Escaneo mediane NetBios.md",
     "CTFs VulnHub/Proyecto Windows Domain/Tecnicas que aplicaremos/Golden Ticket Attack.md",
-    "CTFs VulnHub/Proyecto Windows Domain/Tecnicas que aplicaremos/Kerberosting con Rubeus.md",
-    "CTFs VulnHub/Proyecto Windows Domain/Tecnicas que aplicaremos/mitm6  Man In The Midel.md",
-    "CTFs VulnHub/Proyecto Windows Domain/Tecnicas que aplicaremos/Robo de hash mediante archivos scf.md",
     "VMWare",
     "attachments/images/Diagrama visual.png",
     "system-design.excalidrawlib",
