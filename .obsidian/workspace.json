@@ -73,16 +73,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comandos y Herramientas Utiles/Migrar a una TTY.md",
+                "file": "Comandos y Herramientas Utiles/Pivoting/Chisel Ejemplo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Migrar a una TTY"
+              "title": "Chisel Ejemplo"
+            }
+          },
+          {
+            "id": "7ea3e6b7d6eac48a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CTFs VulnHub/eLection 1/eLection 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "eLection 1"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -114,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pwn",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -255,10 +269,11 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "26b958ab91397320",
+  "active": "7ea3e6b7d6eac48a",
   "lastOpenFiles": [
-    "Comandos y Herramientas Utiles/Crear Payloads msfvenom/Crear un payload warp.md",
     "CTFs VulnHub/Proyecto SOC/Corrosion1/Corrosion1.md",
+    "Comandos y Herramientas Utiles/Migrar a una TTY.md",
+    "Comandos y Herramientas Utiles/Crear Payloads msfvenom/Crear un payload warp.md",
     "CTFs VulnHub/Proyecto SOC/Corrosio2/Corrosion 2.md",
     "CTFs VulnHub/Proyecto Windows Domain/Tecnicas que aplicaremos/Samba Relay.md",
     "CTFs VulnHub/Proyecto Windows Domain/Tecnicas que aplicaremos/Crackmapexec.md",
@@ -266,7 +281,6 @@
     "Comandos y Herramientas Utiles/Log Poisoning",
     "CTFs VulnHub/Proyecto SOC/Corrosion1/Python Log Poisoning.md",
     "Comandos y Herramientas Utiles/Log Poisoning/Log Poisoning Mediante UserAgent.md",
-    "Comandos y Herramientas Utiles/Migrar a una TTY.md",
     "Comandos y Herramientas Utiles/Pivoting/Chisel Ejemplo.md",
     "Comandos y Herramientas Utiles/Pivoting/Socat.md",
     "Comandos y Herramientas Utiles/Pivoting/Tunel SSH.md",
