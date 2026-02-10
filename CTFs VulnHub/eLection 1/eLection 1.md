@@ -142,6 +142,10 @@ Encontramos varios pero uno en paricular llama la atencion
 Hacemos una busqueda en interner para ver que es
 Y encontramos que hay una vulnerabilidad lo encontramos en Search Expliot DB y es un script de C que aparentemente nos da Privilegios elevado.
 
+searchsploit Serv-U | grep linux
+searchsploit -x 47009 
+searchsploit -m 47009 
+
 ```
 
 Script

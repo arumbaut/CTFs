@@ -128,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gcc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -271,7 +271,10 @@
   },
   "active": "7ea3e6b7d6eac48a",
   "lastOpenFiles": [
+    "Comandos y Herramientas Utiles/Compilacion de scrips en C.md",
+    "Comandos y Herramientas Utiles/Escalada de Privilegios/Binarios Utiles.md",
     "CTFs VulnHub/Proyecto SOC/Corrosion1/Corrosion1.md",
+    "CTFs VulnHub/eLection 1/eLection 1.md",
     "Comandos y Herramientas Utiles/Migrar a una TTY.md",
     "Comandos y Herramientas Utiles/Crear Payloads msfvenom/Crear un payload warp.md",
     "CTFs VulnHub/Proyecto SOC/Corrosio2/Corrosion 2.md",
@@ -295,9 +298,6 @@
     "CTFs VulnHub/Proyecto Windows Domain/Tecnicas que aplicaremos/Ejecucion de codigo mediante SAMBA.md",
     "CTFs VulnHub/Proyecto Windows Domain/Tecnicas que aplicaremos/Diagrama visual.md",
     "CTFs VulnHub/Proyecto Windows Domain/Tecnicas que aplicaremos/Detectar usuario Kerberosteables.md",
-    "CTFs VulnHub/Proyecto Windows Domain/Tecnicas que aplicaremos/AS-REP Roasting.md",
-    "CTFs VulnHub/Proyecto Windows Domain/Tecnicas que aplicaremos/Escaneo mediane NetBios.md",
-    "CTFs VulnHub/Proyecto Windows Domain/Tecnicas que aplicaremos/Golden Ticket Attack.md",
     "VMWare",
     "attachments/images/Diagrama visual.png",
     "system-design.excalidrawlib",

@@ -1,5 +1,6 @@
 Buscamos si tiene la maquina gcc para compilar 
 
+- Tags : #gcc_bash 
 ```
 $ which gcc
 /usr/bin/gcc
