@@ -87,12 +87,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTFs VulnHub/eLection 1/eLection 1.md",
+                "file": "CTFs VulnHub/Proyecto Windows Domain/Tecnicas que aplicaremos/AS-REP Roasting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "eLection 1"
+              "title": "AS-REP Roasting"
             }
           }
         ],
@@ -271,13 +271,17 @@
   },
   "active": "7ea3e6b7d6eac48a",
   "lastOpenFiles": [
+    "CTFs VulnHub/Proyecto SOC/Corrosio2/Corrosion 2.md",
+    "Comandos y Herramientas Utiles/Identificar Hash/hash-identifier.md",
+    "Comandos y Herramientas Utiles/Identificar Hash/Hashid recomendada.md",
+    "Comandos y Herramientas Utiles/Escalada de Privilegios/Capabilitis.md",
+    "Comandos y Herramientas Utiles/Descifrar hash/John The riper.md",
+    "Comandos y Herramientas Utiles/Crear Payloads msfvenom/Crear un payload warp.md",
+    "Comandos y Herramientas Utiles/Migrar a una TTY.md",
+    "CTFs VulnHub/eLection 1/eLection 1.md",
     "Comandos y Herramientas Utiles/Compilacion de scrips en C.md",
     "Comandos y Herramientas Utiles/Escalada de Privilegios/Binarios Utiles.md",
     "CTFs VulnHub/Proyecto SOC/Corrosion1/Corrosion1.md",
-    "CTFs VulnHub/eLection 1/eLection 1.md",
-    "Comandos y Herramientas Utiles/Migrar a una TTY.md",
-    "Comandos y Herramientas Utiles/Crear Payloads msfvenom/Crear un payload warp.md",
-    "CTFs VulnHub/Proyecto SOC/Corrosio2/Corrosion 2.md",
     "CTFs VulnHub/Proyecto Windows Domain/Tecnicas que aplicaremos/Samba Relay.md",
     "CTFs VulnHub/Proyecto Windows Domain/Tecnicas que aplicaremos/Crackmapexec.md",
     "Comandos y Herramientas Utiles/Log Poisoning/Python Log Poisoning auth.log.md",
@@ -294,10 +298,6 @@
     "CTFs VulnHub/Proyecto Windows Domain/Tecnicas que aplicaremos/Ataque al winrm.md",
     "CTFs VulnHub/Proyecto Windows Domain/Tecnicas que aplicaremos/PSEXEC obtner coneccion.md",
     "CTFs VulnHub/Proyecto Windows Domain/Tecnicas que aplicaremos/Enumerar el AD.md",
-    "CTFs VulnHub/Proyecto Windows Domain/Tecnicas que aplicaremos/Ejecucion de codigo mediante SAMBA IPV6.md",
-    "CTFs VulnHub/Proyecto Windows Domain/Tecnicas que aplicaremos/Ejecucion de codigo mediante SAMBA.md",
-    "CTFs VulnHub/Proyecto Windows Domain/Tecnicas que aplicaremos/Diagrama visual.md",
-    "CTFs VulnHub/Proyecto Windows Domain/Tecnicas que aplicaremos/Detectar usuario Kerberosteables.md",
     "VMWare",
     "attachments/images/Diagrama visual.png",
     "system-design.excalidrawlib",

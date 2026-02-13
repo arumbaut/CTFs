@@ -1,4 +1,4 @@
-Teniendo un listado de usuarios del dominio si hay alguno que no tiene activada la condicion de preautenticacion con kerberos 
+Teniendo un listado de usuarios del dominio si hay alguno que no tiene activada la condición de preautenticación con kerberos 
 
 ```
 impacket-GetNPUsers savicorp.local/ -no-pass -usersfile users
